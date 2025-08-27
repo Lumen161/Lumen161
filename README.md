@@ -1,5 +1,4 @@
-
-![snake svg](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake.svg)
+![snake dark](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
