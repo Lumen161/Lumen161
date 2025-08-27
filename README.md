@@ -1,6 +1,6 @@
-## 🐍 GitHub Contributions Snake
 
-![snake dark](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake-dark.svg)
+![snake transparent](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake-transparent.svg)
+
 
 ---
 
@@ -19,7 +19,6 @@
 ## 💡 Моя любимая цитата
 
 > "Не все так просто"  
-> — моя любимая цитата
 
 ---
 
