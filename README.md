@@ -1,3 +1,8 @@
+
+![snake svg](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 # Привет, я Кирилл 👋  
 **Junior автотестировщик | Junior backend разработчик**  
 
@@ -22,10 +27,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Lumen161&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumen161&layout=compact&theme=tokyonight)
 
----
-
-## 🐍 GitHub Contributions Snake
-![snake svg](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
