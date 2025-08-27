@@ -1,10 +1,8 @@
-
-![snake transparent](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake-transparent.svg)
-
+![snake dark](https://github.com/Lumen161/Lumen161/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# Привет, я Кирилл 👋  
+# Привет, я Кирилл 👋
 
 **Junior автотестировщик | Junior backend разработчик**
 
@@ -19,6 +17,7 @@
 ## 💡 Моя любимая цитата
 
 > "Не все так просто"  
+> — моя любимая цитата
 
 ---
 
